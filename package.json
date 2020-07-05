@@ -1,0 +1,24 @@
+{
+  "name": "elliptic-curve-js-example",
+  "version": "0.1.0",
+  "description": "Scripts to perform eliptic curve calculation in JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzy96/elliptic-curve-js-example.git"
+  },
+  "author": "Zhou Zhiyao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zzy96/elliptic-curve-js-example/issues"
+  },
+  "homepage": "https://github.com/zzy96/elliptic-curve-js-example#readme",
+  "dependencies": {
+    "bn.js": "^5.1.2",
+    "crypto": "^1.0.1",
+    "elliptic": "^6.5.3"
+  }
+}
